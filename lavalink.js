@@ -1,11 +1,10 @@
-
 module.exports = {
     enabled: true, 
     lavalink: {
-      name: "GlaceYT",
-      password: "glace",
-      host: "de-01.strixnodes.com",
-      port: 2010,
+      name: "TriniumHost-Free",
+      password: "free",
+      host: "lavalink.triniumhost.com",
+      port: 4333,
       secure: false
     }
-};           
+};
