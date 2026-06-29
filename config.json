@@ -1,0 +1,10 @@
+{
+    "token": "",
+    "prefix": "!",
+    "mongodbUri": "",
+    "categories": {
+        "lavalink": true,
+        "distube": true,
+        "audio": true
+    }
+}
