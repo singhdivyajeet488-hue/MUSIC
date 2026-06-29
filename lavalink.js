@@ -1,10 +1,14 @@
+
 module.exports = {
     enabled: true, 
     lavalink: {
-      name: "FastNode-Public",
-      password: "youshallnotpass",
-      host: "lavalink.fastnode.cc",
-      port: 2333,
+      name: "GlaceYT",
+      password: "glace",
+      host: "de-01.strixnodes.com",
+      port: 2010,
       secure: false
     }
-};
+};           
+
+
+
