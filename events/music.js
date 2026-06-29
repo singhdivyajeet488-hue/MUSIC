@@ -275,6 +275,12 @@ module.exports = (client) => {
 
         client.on('voiceStateUpdate', async (oldState, newState) => {
             try {
+                // 24/7 rejoin hook
+                try {
+                    const cmd247 = require('../commands/lavalink/247');
+                    cmd247.handle247Rejoin(client, oldState, newState);
+                } catch (e) {}
+
                 if (oldState.member.id === client.user.id && oldState.channelId && !newState.channelId) {
                     const player = client.riffy.players.get(oldState.guild.id);
                     if (player) {
