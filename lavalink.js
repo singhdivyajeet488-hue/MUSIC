@@ -1,10 +1,10 @@
 module.exports = {
     enabled: true, 
     lavalink: {
-      name: "HeavenCloud-SSL",
-      password: "free",
-      host: "lavalink.devamop.in",
-      port: 443,
-      secure: true
+      name: "FastNode-Public",
+      password: "youshallnotpass",
+      host: "lavalink.fastnode.cc",
+      port: 2333,
+      secure: false
     }
 };
