@@ -1,0 +1,11 @@
+{
+    "token": "",
+    "prefix": "!",
+    "mongodbUri": "",
+    "guildId": "YOUR_SERVER_ID_HERE",
+    "categories": {
+        "lavalink": true,
+        "distube": true,
+        "audio": true
+    }
+}
