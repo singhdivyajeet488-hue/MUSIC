@@ -1,10 +1,10 @@
 module.exports = {
     enabled: true, 
     lavalink: {
-      name: "TriniumHost-Free",
+      name: "TriniumHost-SSL",
       password: "free",
-      host: "lavalink.triniumhost.com",
-      port: 4333,
-      secure: false
+      host: "lavalink-v4.triniumhost.com",
+      port: 443,
+      secure: true
     }
 };
