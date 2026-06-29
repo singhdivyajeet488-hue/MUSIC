@@ -1,10 +1,10 @@
 module.exports = {
     enabled: true, 
     lavalink: {
-      name: "HeavenCloud-Global",
+      name: "HeavenCloud-SSL",
       password: "free",
-      host: "lavalink.heavencloud.in",
-      port: 2333,
-      secure: false
+      host: "lavalink.devamop.in",
+      port: 443,
+      secure: true
     }
 };
