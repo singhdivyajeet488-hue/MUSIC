@@ -1,10 +1,10 @@
 module.exports = {
     enabled: true, 
     lavalink: {
-      name: "lavalink.triniumhost.com",
-      password: "free",
-      host: "lavalink.triniumhost.com",
-      port: 9008,
+      name: "lavalinkv4.serenetia.com",
+      password: "https://seretia.link/discord",
+      host: "lavalinkv4.serenetia.com",
+      port: 80,
       secure: false
     }
 };
