@@ -1,9 +1,9 @@
 module.exports = {
     enabled: true, 
     lavalink: {
-      name: "lava.g3v.co.uk",
-      password: "lavalinklol",
-      host: "lava.g3v.co.uk",
+      name: "lavalink.triniumhost.com",
+      password: "free",
+      host: "lavalink.triniumhost.com",
       port: 9008,
       secure: false
     }
