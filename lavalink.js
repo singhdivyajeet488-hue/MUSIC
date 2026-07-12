@@ -1,10 +1,10 @@
 module.exports = {
     enabled: true, 
     lavalink: {
-      name: "lavalinkv4.serenetia.com",
-      password: "https://seretia.link/discord",
-      host: "lavalinkv4.serenetia.com",
-      port: 80,
+      name: "uae-max-node",
+      password: "zyvok",
+      host: "uae-max.brutescale.xyz",
+      port: 19105,
       secure: false
     }
 };
